@@ -1,0 +1,2 @@
+This is a dummy file.
+I don't know how to set up a codespace in a fresh account.
